@@ -36,7 +36,7 @@ Para validar la resiliencia del sistema, se ejecutó un ataque de fuerza bruta p
 - **Detección:** Wazuh identificó el ataque de fuerza bruta en tiempo real.
 - **Acción:** El servidor ejecutó el comando `host-deny`, bloqueando la IP del atacante.
 
-![Ataque SSH y Respuesta Activa](screenshots/pentesting_active-response.jpg)
+![Ataque SSH y Respuesta Activa](screenshots/pentesting_active-response.png)
 ![Conexión rechazada por el servidor](screenshots/ssh-refused.png)
 
 ## 🏁 Conclusión
